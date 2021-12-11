@@ -1,0 +1,12 @@
+{
+    "name": "chat-application",
+    "version": "1.0.0",
+    "description": "A node js project of chat application",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ranok Raihan",
+    "license": "ISC"
+}
